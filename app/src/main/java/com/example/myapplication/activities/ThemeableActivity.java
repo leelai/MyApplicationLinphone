@@ -27,6 +27,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
 
 import com.example.myapplication.R;
+import com.example.myapplication.settings.LinphonePreferences;
 
 
 public abstract class ThemeableActivity extends AppCompatActivity {
